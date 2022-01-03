@@ -1,0 +1,41 @@
+{
+  "wifiConfig": [
+    {
+      "ssid": "LAN Solo",
+      "password": "b1ef21fdc10a7e1e8428fa84c7e4f492367fa51ec3221e581764b576cf03fcab",
+      "plainTextPassword": "UseTheForceHarry"
+    },
+    {
+      "ssid": "Abraham Linksys",
+      "password": "dfebe8bec127316560991fafc8ba01d0c28661c86fa8900c2ffe333b4e5c84ae",
+      "plainTextPassword": "linksys1"
+    },
+    {
+      "ssid": "Benjamin FrankLAN",
+      "password": "54115d5db21aab03fa01505bbf3c879c984fbb4d86d06943054e629cccb1e2c9",
+      "plainTextPassword": "Possible19PessimistsRiding"
+    },
+    {
+      "ssid": "King Martin Router",
+      "password": "8a19d2a12ef39ee470fd8f2dc47fe2a5c2268736fe92840d890e399a0d67d250",
+      "plainTextPassword": "33SatisfiedStudentsRides"
+    },
+    {
+      "ssid": "John Wilkes Bluetooth",
+      "password": "a4a61f62f5d2fbaaecb2154b7412aea0a1cad3d9056abde334722494392e0b82",
+      "plainTextPassword": "ArrogantLoserMelting63"
+    },
+    {
+      "ssid": "Pretty Fly for a Wi-Fi"
+    },
+    {
+      "ssid": "House LANnister"
+    },
+    {
+      "ssid": "get off my lan"
+    },
+    {
+      "ssid": "FBI Surveillance Van 4"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<!DOCTYPE RCC>
+<RCC>
+	<qresource>
+		${RES_FILE_LIST}
+	</qresource>
+</RCC>

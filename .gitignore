@@ -1,0 +1,5 @@
+.cache
+build
+result
+docs
+CMakeLists.txt.user
